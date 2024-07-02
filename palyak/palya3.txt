@@ -1,0 +1,10 @@
+Pálya: 3
+Nehézség: Könnyű
+
+Fix Bábuk:
+Rakéta, Észak, 4;3
+Rakéta, Nyugat, 3;4
+
+Felhasználható Bábuk:
+Tükör, 1
+ÁteresztőTükör, 1

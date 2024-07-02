@@ -1,0 +1,9 @@
+Pálya: 7
+Nehézség: Közepes
+
+Fix Bábuk:
+Rakéta, Kelet, 0;2
+
+Felhasználható Bábuk:
+Tükör, 4
+

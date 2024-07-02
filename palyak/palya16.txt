@@ -1,0 +1,10 @@
+Pálya: 16
+Nehézség: Géniusz
+
+Fix Bábuk:
+Rakéta, Dél, 0;1
+Rakéta, Dél, 0;2
+
+Felhasználható Bábuk:
+Tükör, 5
+ÁteresztőTükör, 1

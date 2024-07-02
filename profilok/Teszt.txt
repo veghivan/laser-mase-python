@@ -1,0 +1,6 @@
+Gamertag: Teszt
+Összpontszám: 120
+Összesen eltöltött idõ: 3 másodperc
+
+Teljesített pályák:
+  - Pálya ID: 1, Nehézség: Könnyû, Idõ: 3 másodperc, Pontok: 120

@@ -1,0 +1,6 @@
+Gamertag: Asderman2
+Összpontszám: 120
+Összesen eltöltött idõ: 6 másodperc
+
+Teljesített pályák:
+  - Pálya ID: 1, Nehézség: Könnyû, Idõ: 6 másodperc, Pontok: 120

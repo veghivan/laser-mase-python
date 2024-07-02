@@ -1,0 +1,8 @@
+Gamertag: Makika
+Összpontszám: 360
+Összesen eltöltött idõ: 61 másodperc
+
+Teljesített pályák:
+  - Pálya ID: 1, Nehézség: Könnyû, Idõ: 4 másodperc, Pontok: 120
+  - Pálya ID: 1, Nehézség: Könnyû, Idõ: 3 másodperc, Pontok: 120
+  - Pálya ID: 2, Nehézség: Könnyû, Idõ: 54 másodperc, Pontok: 120

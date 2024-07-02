@@ -1,0 +1,11 @@
+Pálya: 18
+Nehézség: Géniusz
+
+Fix Bábuk:
+Rakéta, Kelet, 0;1
+Rakéta, Kelet, 3;1
+SpaceRock, Észak, 2;3
+
+Felhasználható Bábuk:
+Tükör, 4
+ÁteresztőTükör, 1

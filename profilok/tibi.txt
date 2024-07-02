@@ -1,0 +1,6 @@
+Gamertag: tibi
+Összpontszám: 120
+Összesen eltöltött idő: 158 másodperc
+
+Teljesített pályák:
+  - Pálya ID: 1, Nehézség: Könnyű, Idő: 158 másodperc, Pontok: 120

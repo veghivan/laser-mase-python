@@ -1,0 +1,6 @@
+Gamertag: Yoloman
+Összpontszám: 120
+Összesen eltöltött idõ: 11 másodperc
+
+Teljesített pályák:
+  - Pálya ID: 1, Nehézség: Könnyû, Idõ: 11 másodperc, Pontok: 120

@@ -1,0 +1,12 @@
+Pálya: 6
+Nehézség: Közepes
+
+Fix Bábuk:
+Rakéta, Dél, 0;4
+Rakéta, Észak, 4;3
+SpaceRock, Észak, 3;4
+
+Felhasználható Bábuk:
+ÁteresztőTükör, 1
+Tükör, 1
+
